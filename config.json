@@ -1,10 +1,10 @@
 {
     "urls": [
-        "https://www.zara.com/tr/tr/dugumlu-ajurlu-triko-elbise-p02756024.html?v1=367462396",
-        "https://www.zara.com/tr/tr/parlak-tasli-kisa-elbise-p04764302.html?v1=363971227"
+        "https://www.zara.com/tr/tr/dokulu-gomlek-p01063370.html?v1=315855663&v2=2415560",
+        
     ],
-    "sizes_to_check": ["XS", "S"],
+    "sizes_to_check": ["M", "L"],
     "sleep_min_seconds": 600,  
     "sleep_max_seconds": 720,  
-    "chrome_driver_path": "../../DesktopHolder/chromedriver-win64/chromedriver.exe"
+    "chrome_driver_path": "/opt/homebrew/bin/chromedriver"
 }
